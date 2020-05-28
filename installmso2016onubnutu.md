@@ -499,7 +499,7 @@ A successful message: click on Next and the install window will be closed.
 
 Now you can close PlayOnLinux.
 
-**_Note: To launch any office suite shorcuts on your desktop, just right click and choose** `Allow launching`, **now you can run the MSO apps._**
+***Note: To launch any office suite shorcuts on your desktop, just right click and choose*** `Allow launching`, ***now you can run the MSO apps.***
 
 :)
 
