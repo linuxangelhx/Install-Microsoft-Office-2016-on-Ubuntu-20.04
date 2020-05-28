@@ -18,7 +18,7 @@ $sudo apt-get install playonlinux samba winbind winetricks unrar
 Download the MSO 2016 installer files (either DVD/folder files), in the 32 bits version. Even if you're under Ubuntu 64, we'll use a 32 bits wine installation.
 
 
-**You can download Microsfot Office 2016 32bits from this link** [MSO 2016 32 Bits Installer]( https://doc1034docs.googleusercontent.com/docs/securesc/k0o5m51bvqtq8pl2aqf2e0un3aoamjpa/nqcs4qpgrnfvbim8ksl7q67ojug4ci9b/1590678450000/03322087261072322119/05396892547377328719/13bxXRGJTLJCBB_OOejXTT5TTjETZ59VD?e=download&authuser=0&nonce=4g2bv5om463tk&user=05396892547377328719&hash=dpv5rc21eehh8r3u3vrr9fout45nsemc)
+**You can download Microsfot Office 2016 32bits from this link** [MSO 2016 32 Bits Installer]( https://drive.google.com/file/d/13bxXRGJTLJCBB_OOejXTT5TTjETZ59VD/view?usp=sharing)
 
 * *I also installed this version and I'm having some issues with Outlook but I don't use it. Everything else works fine.* *
 
